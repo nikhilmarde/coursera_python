@@ -1,0 +1,5 @@
+Error detected while processing /Users/nikhilmarde/.vim/bundle/SimpylFold/ftplugin/python/SimpylFold.vim:
+line   11:
+E216: No such group or event: TextChanged,InsertLeave <buffer> call SimpylFold#Recache()
+Error detected while processing BufRead Auto commands for "*.py":
+E20: Mark not set
